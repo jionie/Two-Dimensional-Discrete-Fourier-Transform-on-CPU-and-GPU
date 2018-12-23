@@ -1,0 +1,1 @@
+mpicxx   -std=c++11 -pthread  -rdynamic CMakeFiles/p32.dir/src/complex.cc.o CMakeFiles/p32.dir/src/input_image.cc.o CMakeFiles/p32.dir/MPISource.cc.o  -o p32 

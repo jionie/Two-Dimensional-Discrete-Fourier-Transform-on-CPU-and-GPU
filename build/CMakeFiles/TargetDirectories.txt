@@ -1,0 +1,5 @@
+/home/iamctr/homeworks/6122/FinalProject/final/p3_final/build/CMakeFiles/edit_cache.dir
+/home/iamctr/homeworks/6122/FinalProject/final/p3_final/build/CMakeFiles/rebuild_cache.dir
+/home/iamctr/homeworks/6122/FinalProject/final/p3_final/build/CMakeFiles/p33.dir
+/home/iamctr/homeworks/6122/FinalProject/final/p3_final/build/CMakeFiles/p32.dir
+/home/iamctr/homeworks/6122/FinalProject/final/p3_final/build/CMakeFiles/p31.dir
